@@ -1,0 +1,1 @@
+'validEmailFinder.js' takes a list of details and runs through the 'verify-email' API to find a valid email.

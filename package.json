@@ -1,0 +1,13 @@
+{
+  "name": "email-validator",
+  "version": "0.0.1",
+  "description": "Get Emails from 1074 Companies",
+  "main": "emailValidator.js",
+  "author": "Adit Trivedi",
+  "dependencies": {
+    "elasticsearch": "latest",
+    "fast-csv": "latest",
+    "request": "latest",
+    "request-promise": "latest"
+  }
+}
